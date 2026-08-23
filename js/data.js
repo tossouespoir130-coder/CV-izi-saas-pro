@@ -264,7 +264,7 @@ const cvData = {
         category: "content",
         categoryLabel: "Auteur, Livres & Formations (+430k)",
         badge: "+430k Abonnés • Auteur",
-        image: "assets/images/espoir-chinois.jpg",
+        image: "https://images.unsplash.com/photo-1528747045269-390fe33c19f2?auto=format&fit=crop&w=1200&q=85",
         description: "Écosystème pédagogique de référence et livres rédigés par Espoir Tossou pour permettre aux francophones d'apprendre le mandarin rapidement et efficacement.",
         features: [
           "Programme de coaching d'élite « Chinois Master »",
@@ -634,7 +634,7 @@ const cvData = {
         category: "content",
         categoryLabel: "出版著作与线上教育 (43万+粉丝)",
         badge: "全网43万+粉丝 • 作家",
-        image: "assets/images/espoir-chinois.jpg",
+        image: "https://images.unsplash.com/photo-1528747045269-390fe33c19f2?auto=format&fit=crop&w=1200&q=85",
         description: "由托苏·埃斯波尔创立的领先法语区中文教育体系与实战图书，帮助数十万非洲与法语区学员快速掌握实用汉语口语与对华商务交流。",
         features: [
           "旗舰级中文速成培训课程「Chinois Master」",
