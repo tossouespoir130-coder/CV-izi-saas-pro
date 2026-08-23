@@ -467,10 +467,11 @@ html[data-lang="zh"] .testimonial-quote {
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 1.8rem;
+  justify-content: center;
+  gap: 2.2rem;
   list-style: none;
   white-space: nowrap;
-  flex-shrink: 0;
+  flex: 1;
 }
 
 .nav-link {
