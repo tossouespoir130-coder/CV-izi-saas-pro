@@ -32,10 +32,9 @@ const cvData = {
       bio: "Interprète de Projet et Traducteur professionnel Chinois-Français, Responsable Management QHSE certifié, Auteur et Coach de langue. Fort d'une expérience confirmée sur des projets d'envergure internationale (Stecol, Huayu/CBG Guinée, Sinohydro, HNRB), je garantis une communication fluide, une gestion humaine rigoureuse et une résolution efficace des défis de terrain.",
       email: "tossouespoir130@gmail.com",
       phone: "+229 96 38 58 64",
-      phoneSecondary: "+224 61 15 46 88 0",
       wechat: "mawuto1",
       permis: "Permis B",
-      location: "Cotonou (Bénin) / Kamsar (Guinée) • Mobilité Internationale",
+      location: "Cotonou (Bénin) • Mobilité Internationale (Permis B)",
       avatar: "assets/images/espoir-chinois.jpg",
       links: {
         facebook: "https://www.facebook.com/espoirchinois",
@@ -403,10 +402,9 @@ const cvData = {
       bio: "苏波 (M. Espoir. J TOSSOU) —— 专业资深中法双语项目翻译官、国际认证QHSE安全总监、畅销书作家及语言导师。长年服务于中国电建市政集团 (Stecol)、华宇建设/几内亚美铝 (CBG)、中国水利水电 (Sinohydro)、湖南路桥 (HNRB) 等中资跨国央企。精通中非跨文化商务谈判、劳工法律法规、属地人员管理及突发纠纷调解。全网拥有超43万忠实学员与合作客户。",
       email: "tossouespoir130@gmail.com",
       phone: "+229 96 38 58 64",
-      phoneSecondary: "+224 61 15 46 88 0",
       wechat: "mawuto1",
       permis: "驾照 B本",
-      location: "贝宁科托努 / 几内亚卡姆萨尔 • 接受全球派驻与出差",
+      location: "贝宁科托努 • 接受全球派驻与国际出差 (驾照B本)",
       avatar: "assets/images/espoir-chinois.jpg",
       links: {
         facebook: "https://www.facebook.com/espoirchinois",
