@@ -316,7 +316,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "Interprétation & Grands Projets",
         badge: "Mission en Cours (Interprète de Projet)",
-        image: "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=1200&q=85",
+        image: "https://images.unsplash.com/photo-1590496793929-36417d3117de?auto=format&fit=crop&w=1200&q=85",
         description: "Interprète de Projet sur les chantiers d'envergure de Stecol Corporation au Bénin, assurant une parfaite liaison technique, stratégique et managériale entre la direction chinoise et les équipes locales.",
         features: [
           "Interprète de Projet référent pour l'ensemble des réunions de direction",
@@ -686,7 +686,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "国家级工程与外事翻译",
         badge: "在建重点项目 (项目总翻译)",
-        image: "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=1200&q=85",
+        image: "https://images.unsplash.com/photo-1590496793929-36417d3117de?auto=format&fit=crop&w=1200&q=85",
         description: "电建市政国家级大型工程项目总翻译官。协调中方项目经理部与当地政府、监理及分包单位全方位日常对接。",
         features: [
           "项目管理层高级别商务、技术与进度推进会议口译",
