@@ -115,11 +115,7 @@ function applyLanguage(lang) {
 
   // Hero CTAs
   const heroBtnProjects = document.getElementById('hero-btn-projects-text');
-  const heroBtnContact = document.getElementById('hero-btn-contact-text');
-  const heroBtnCommunity = document.getElementById('hero-btn-community-text');
   if (heroBtnProjects) heroBtnProjects.textContent = lang === 'fr' ? 'Découvrir mes réalisations' : '查看重点项目与业绩';
-  if (heroBtnContact) heroBtnContact.textContent = lang === 'fr' ? 'Discuter d\'un projet' : '商务合作 / 立即联系';
-  if (heroBtnCommunity) heroBtnCommunity.textContent = lang === 'fr' ? 'Réseaux (+430k)' : '社交矩阵 (43万+)';
 
   // Social Links
   renderSocialLinks(data);
