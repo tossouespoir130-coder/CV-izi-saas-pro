@@ -283,7 +283,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "Mines, Énergie & Environnement",
         badge: "Kamsar, Guinée",
-        image: "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=85",
         description: "Projet de grande ampleur pour la Compagnie des Bauxites de Guinée (CBG) mené par la Société de Coopération Huayu. Interprétation technique, conformité environnementale et gestion des employés.",
         features: [
           "Traduction simultanée des réunions d'ingénierie et de sécurité CBG",
@@ -300,7 +300,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "Grands Travaux Hydrauliques",
         badge: "Glazoué, Bénin",
-        image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=85",
         description: "Construction d'un barrage hydraulique stratégique. Rôle central dans l'interprétation de chantier, la prise en charge des affaires juridiques et la gestion des équipes.",
         features: [
           "Traduction des dossiers administratifs et juridiques du projet",
@@ -317,7 +317,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "Interprétation & Grands Projets",
         badge: "Mission en Cours (Interprète de Projet)",
-        image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=1200&q=85",
         description: "Interprète de Projet sur les chantiers d'envergure de Stecol Corporation au Bénin, assurant une parfaite liaison technique, stratégique et managériale entre la direction chinoise et les équipes locales.",
         features: [
           "Interprète de Projet référent pour l'ensemble des réunions de direction",
@@ -654,7 +654,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "矿业、能源与环保工程",
         badge: "几内亚 卡姆萨尔",
-        image: "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=85",
         description: "几内亚美铝公司 (CBG) 核心环保工程。负责现场高难度技术传译、环保施工标准推行及数百名属地员工管理。",
         features: [
           "美铝CBG监理团队技术交底与安全会议全程翻译",
@@ -671,7 +671,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "大型水利水坝建设",
         badge: "贝宁 格拉祖埃",
-        image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=85",
         description: "国家重点水利枢纽工程。担纲现场施工口译、多部门涉外法律程序对接及属地劳工日常管理工作。",
         features: [
           "水坝技术文件与法律行政程序全套双语办理",
@@ -688,7 +688,7 @@ const cvData = {
         category: "interpretation",
         categoryLabel: "国家级工程与外事翻译",
         badge: "在建重点项目 (项目总翻译)",
-        image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
+        image: "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=1200&q=85",
         description: "电建市政国家级大型工程项目总翻译官。协调中方项目经理部与当地政府、监理及分包单位全方位日常对接。",
         features: [
           "项目管理层高级别商务、技术与进度推进会议口译",
