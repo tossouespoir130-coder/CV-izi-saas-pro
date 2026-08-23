@@ -1,0 +1,223 @@
+/* ==========================================================================
+   CV & PORTFOLIO - PRINT & PDF EXPORT STYLESHEET
+   Formaté spécifiquement pour l'impression A4 et l'exportation PDF professionnelle
+   ========================================================================== */
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 1.2cm;
+  }
+
+  *, *::before, *::after {
+    background: transparent !important;
+    color: #111827 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    font-size: 10.5pt;
+    line-height: 1.4;
+    color: #111827 !important;
+  }
+
+  /* Masquer les éléments non pertinents pour l'impression */
+  .navbar,
+  .bg-glow-orb,
+  .floating-bar,
+  .modal-overlay,
+  .toast,
+  .hero-actions,
+  .status-badge,
+  .skills-tabs,
+  .timeline-toggle-wrapper,
+  .projects-filter,
+  .project-actions,
+  .contact-form-card,
+  .services-section,
+  .testimonials-section,
+  .footer,
+  .social-link {
+    display: none !important;
+  }
+
+  .hero-visual {
+    display: none !important;
+  }
+
+  .container {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  section {
+    padding: 1.5rem 0 !important;
+    page-break-inside: avoid;
+  }
+
+  .hero-section {
+    min-height: auto !important;
+    padding: 0 0 1.5rem 0 !important;
+    border-bottom: 2px solid #e5e7eb;
+  }
+
+  .hero-grid {
+    display: block !important;
+  }
+
+  .hero-title {
+    font-size: 20pt !important;
+    color: #111827 !important;
+    margin-bottom: 0.25rem !important;
+  }
+
+  .hero-typewriter {
+    font-size: 13pt !important;
+    color: #4f46e5 !important;
+    font-weight: bold !important;
+    min-height: auto !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  .typewriter-cursor {
+    display: none !important;
+  }
+
+  .hero-bio {
+    font-size: 10pt !important;
+    color: #4b5563 !important;
+    margin-bottom: 0.75rem !important;
+  }
+
+  .section-header {
+    text-align: left !important;
+    margin-bottom: 1.25rem !important;
+  }
+
+  .section-badge {
+    display: none !important;
+  }
+
+  .section-title {
+    font-size: 14pt !important;
+    border-bottom: 1.5px solid #4f46e5 !important;
+    padding-bottom: 0.25rem !important;
+    margin-bottom: 0.5rem !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+  }
+
+  .section-subtitle {
+    display: none !important;
+  }
+
+  /* Compétences en print */
+  .skills-container-grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1rem !important;
+  }
+
+  .glass-card {
+    border: none !important;
+    padding: 0 !important;
+  }
+
+  .skills-category-header {
+    margin-bottom: 0.5rem !important;
+    padding-bottom: 0.25rem !important;
+    border-bottom: 1px solid #e5e7eb !important;
+  }
+
+  .skills-category-title {
+    font-size: 11pt !important;
+  }
+
+  .skill-bar-bg {
+    background: #e5e7eb !important;
+    height: 5px !important;
+  }
+
+  .skill-bar-fill {
+    background: #4f46e5 !important;
+  }
+
+  /* Timeline en print */
+  .timeline-container::before {
+    display: none !important;
+  }
+
+  .timeline-item {
+    padding-left: 0 !important;
+    margin-bottom: 1.25rem !important;
+    page-break-inside: avoid;
+  }
+
+  .timeline-dot {
+    display: none !important;
+  }
+
+  .timeline-role {
+    font-size: 11.5pt !important;
+    font-weight: bold !important;
+  }
+
+  .timeline-company {
+    font-size: 10pt !important;
+    color: #4f46e5 !important;
+  }
+
+  .timeline-period {
+    background: #f3f4f6 !important;
+    border: 1px solid #d1d5db !important;
+    font-size: 8.5pt !important;
+  }
+
+  .timeline-achievements li {
+    font-size: 9pt !important;
+    color: #374151 !important;
+  }
+
+  /* Projets en print */
+  .projects-grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1rem !important;
+  }
+
+  .project-card {
+    border: 1px solid #e5e7eb !important;
+    page-break-inside: avoid;
+  }
+
+  .project-img-wrapper {
+    height: 120px !important;
+  }
+
+  .project-title {
+    font-size: 11pt !important;
+  }
+
+  .project-description {
+    font-size: 8.5pt !important;
+  }
+
+  /* Coordonnées en print */
+  .contact-info-card {
+    border: 1px solid #e5e7eb !important;
+    padding: 1rem !important;
+  }
+
+  .contact-detail-item {
+    gap: 0.75rem !important;
+  }
+
+  .contact-icon-box {
+    width: 32px !important;
+    height: 32px !important;
+    font-size: 1rem !important;
+  }
+}
