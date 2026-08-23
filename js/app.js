@@ -207,6 +207,9 @@ function updateSectionHeaders(lang) {
   setElText('contact-badge', isZh ? '联系方式与业务对接' : 'Contactez-moi');
   setElHTML('contact-title', isZh ? '携手共赢，开启 <span class="gradient-text">卓越合作</span>' : 'Donnons vie à votre <span class="gradient-text">Projet</span>');
   setElText('contact-subtitle', isZh ? '随时欢迎来电洽谈项目派遣、同声传译、安全管理或语言培训业务。' : 'Un projet d\'infrastructure, une mission d\'interprétation ou un coaching ? Échangeons dès maintenant.');
+
+  // Footer copyright
+  setElHTML('footer-copyright', isZh ? '© 2026 <strong>苏波 (Espoir Chinois)</strong> • 版权所有' : '© 2026 <strong>Espoir Chinois</strong> • Tous droits réservés');
 }
 
 function setElText(id, text) {
