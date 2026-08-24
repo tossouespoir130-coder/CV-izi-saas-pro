@@ -1,5 +1,21 @@
+# OS files
 .DS_Store
 Thumbs.db
+*.Spotlight-V100
+*.Trashes
+
+# Secrets & Environment variables
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+*.token
+*.key
+*.pem
+
+# Dependencies & IDEs
 node_modules/
 .vscode/
 .idea/
+*.log
